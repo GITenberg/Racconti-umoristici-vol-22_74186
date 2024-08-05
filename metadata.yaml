@@ -1,0 +1,30 @@
+_repo: Racconti-umoristici-vol-22_74186
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cagna, Achille Giovanni
+    alias: Vettori, C.
+    birthdate: 1847
+    deathdate: 1931
+    gutenberg_agent_id: '44118'
+    url: http://www.gutenberg.org/2009/agents/44118
+description: ''
+gutenberg_issued: '2024-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74186'
+language: it
+pgterms:marc905: 20231201090204cagna
+pgterms:marc906: '1873'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by Biblioteca Nazionale
+  Braidense - Milano)
+publication_note: '  $aMilano :$bBarbini, $c1873.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Racconti umoristici, vol. 2/2
+url: http://www.gutenberg.org/ebooks/74186
