@@ -1,5 +1,8 @@
 _repo: Racconti-umoristici-vol-22_74186
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74186-h/images/cover.jpg
 creator:
   author:
     agent_name: Cagna, Achille Giovanni
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '44118'
     url: http://www.gutenberg.org/2009/agents/44118
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74186#Racconti-umoristici-vol-22
 gutenberg_issued: '2024-08-04'
 gutenberg_type: Text
 identifiers:
